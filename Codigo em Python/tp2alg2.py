@@ -155,7 +155,6 @@ def findShortcutPath(A):
     path = list(nx.eulerian_circuit(A, 0))
     path = [x[0] for x in path]
 
-    # remove duplicates
     shortcutPath = list(dict.fromkeys(path))
 
     return shortcutPath + [shortcutPath[0]]
