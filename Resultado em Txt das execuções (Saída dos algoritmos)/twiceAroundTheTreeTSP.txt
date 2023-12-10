@@ -1,0 +1,521 @@
+Running: eil51
+Expected: 426
+TwiceAroundTheTreeTSP: 640.9012229251007
+Aproximação obtida: 0.6646890109769454
+Validade da aproximação:True
+Tempo: 0.003018617630004883
+
+Running: berlin52
+Expected: 7542
+TwiceAroundTheTreeTSP: 10116.014495510826
+Aproximação obtida: 0.7455505331024294
+Validade da aproximação:True
+Tempo: 0.0035097599029541016
+
+Running: st70
+Expected: 675
+TwiceAroundTheTreeTSP: 873.3514856717352
+Aproximação obtida: 0.772884698857329
+Validade da aproximação:True
+Tempo: 0.005006551742553711
+
+Running: eil76
+Expected: 538
+TwiceAroundTheTreeTSP: 707.1533198611806
+Aproximação obtida: 0.7607968242383608
+Validade da aproximação:True
+Tempo: 0.005513191223144531
+
+Running: pr76
+Expected: 108159
+TwiceAroundTheTreeTSP: 145338.11445183848
+Aproximação obtida: 0.7441888207228756
+Validade da aproximação:True
+Tempo: 0.006005525588989258
+
+Running: rat99
+Expected: 1211
+TwiceAroundTheTreeTSP: 1723.2250451508614
+Aproximação obtida: 0.7027520888277142
+Validade da aproximação:True
+Tempo: 0.009516000747680664
+
+Running: kroA100
+Expected: 21282
+TwiceAroundTheTreeTSP: 27211.67972921635
+Aproximação obtida: 0.7820906394525203
+Validade da aproximação:True
+Tempo: 0.00953531265258789
+
+Running: kroB100
+Expected: 22141
+TwiceAroundTheTreeTSP: 25881.199893685625
+Aproximação obtida: 0.8554858387922678
+Validade da aproximação:True
+Tempo: 0.00953984260559082
+
+Running: kroC100
+Expected: 20749
+TwiceAroundTheTreeTSP: 27966.54136375163
+Aproximação obtida: 0.7419222752690282
+Validade da aproximação:True
+Tempo: 0.009514331817626953
+
+Running: kroD100
+Expected: 21294
+TwiceAroundTheTreeTSP: 27113.29664042698
+Aproximação obtida: 0.7853711144903648
+Validade da aproximação:True
+Tempo: 0.010516881942749023
+
+Running: kroE100
+Expected: 22068
+TwiceAroundTheTreeTSP: 30507.419046823474
+Aproximação obtida: 0.7233650269178634
+Validade da aproximação:True
+Tempo: 0.010019540786743164
+
+Running: rd100
+Expected: 7910
+TwiceAroundTheTreeTSP: 10791.655815950702
+Aproximação obtida: 0.7329737099573316
+Validade da aproximação:True
+Tempo: 0.010024309158325195
+
+Running: eil101
+Expected: 629
+TwiceAroundTheTreeTSP: 830.5422075548881
+Aproximação obtida: 0.7573365860017791
+Validade da aproximação:True
+Tempo: 0.009516477584838867
+
+Running: lin105
+Expected: 14379
+TwiceAroundTheTreeTSP: 19498.408788813624
+Aproximação obtida: 0.7374447913026285
+Validade da aproximação:True
+Tempo: 0.010517358779907227
+
+Running: pr107
+Expected: 44303
+TwiceAroundTheTreeTSP: 54238.03661175547
+Aproximação obtida: 0.8168252902871088
+Validade da aproximação:True
+Tempo: 0.010515689849853516
+
+Running: pr124
+Expected: 59030
+TwiceAroundTheTreeTSP: 74140.95964828487
+Aproximação obtida: 0.7961860795979805
+Validade da aproximação:True
+Tempo: 0.016086816787719727
+
+Running: bier127
+Expected: 118282
+TwiceAroundTheTreeTSP: 158637.60615918832
+Aproximação obtida: 0.7456113519596821
+Validade da aproximação:True
+Tempo: 0.016048908233642578
+
+Running: ch130
+Expected: 6110
+TwiceAroundTheTreeTSP: 8128.757281130948
+Aproximação obtida: 0.7516524099179303
+Validade da aproximação:True
+Tempo: 0.022057294845581055
+
+Running: pr136
+Expected: 96772
+TwiceAroundTheTreeTSP: 151913.74200165656
+Aproximação obtida: 0.6370193948546454
+Validade da aproximação:True
+Tempo: 0.04709601402282715
+
+Running: pr144
+Expected: 58537
+TwiceAroundTheTreeTSP: 80596.32004796875
+Aproximação obtida: 0.726298669283664
+Validade da aproximação:True
+Tempo: 0.02057623863220215
+
+Running: ch150
+Expected: 6528
+TwiceAroundTheTreeTSP: 8333.472170089168
+Aproximação obtida: 0.783346949118107
+Validade da aproximação:True
+Tempo: 0.02306532859802246
+
+Running: kroA150
+Expected: 26524
+TwiceAroundTheTreeTSP: 35122.56680105931
+Aproximação obtida: 0.755183986131675
+Validade da aproximação:True
+Tempo: 0.02309274673461914
+
+Running: kroB150
+Expected: 26130
+TwiceAroundTheTreeTSP: 36154.73394030785
+Aproximação obtida: 0.7227269337160971
+Validade da aproximação:True
+Tempo: 0.023044586181640625
+
+Running: pr152
+Expected: 73682
+TwiceAroundTheTreeTSP: 87998.6939814051
+Aproximação obtida: 0.8373078811325274
+Validade da aproximação:True
+Tempo: 0.022054195404052734
+
+Running: u159
+Expected: 42080
+TwiceAroundTheTreeTSP: 57787.974410195486
+Aproximação obtida: 0.7281791831169611
+Validade da aproximação:True
+Tempo: 0.02657318115234375
+
+Running: rat195
+Expected: 2323
+TwiceAroundTheTreeTSP: 3317.723252056972
+Aproximação obtida: 0.7001789551192227
+Validade da aproximação:True
+Tempo: 0.03963589668273926
+
+Running: d198
+Expected: 15780
+TwiceAroundTheTreeTSP: 19218.43305436619
+Aproximação obtida: 0.8210867116669005
+Validade da aproximação:True
+Tempo: 0.04009127616882324
+
+Running: kroA200
+Expected: 29368
+TwiceAroundTheTreeTSP: 40030.86635119212
+Aproximação obtida: 0.7336338849715008
+Validade da aproximação:True
+Tempo: 0.04210090637207031
+
+Running: kroB200
+Expected: 29437
+TwiceAroundTheTreeTSP: 40710.95987899587
+Aproximação obtida: 0.7230731008921144
+Validade da aproximação:True
+Tempo: 0.0721743106842041
+
+Running: ts225
+Expected: 126643
+TwiceAroundTheTreeTSP: 188009.70162933244
+Aproximação obtida: 0.6735982180838785
+Validade da aproximação:True
+Tempo: 0.05081534385681152
+
+Running: tsp225
+Expected: 3919
+TwiceAroundTheTreeTSP: 5115.932581284439
+Aproximação obtida: 0.7660382418519031
+Validade da aproximação:True
+Tempo: 0.09231948852539062
+
+Running: pr226
+Expected: 80369
+TwiceAroundTheTreeTSP: 116692.15371518278
+Aproximação obtida: 0.6887266833394918
+Validade da aproximação:True
+Tempo: 0.052619218826293945
+
+Running: gil262
+Expected: 2378
+TwiceAroundTheTreeTSP: 3358.1541767582894
+Aproximação obtida: 0.7081271063901965
+Validade da aproximação:True
+Tempo: 0.07338809967041016
+
+Running: pr264
+Expected: 49135
+TwiceAroundTheTreeTSP: 66466.8417493333
+Aproximação obtida: 0.7392407809190491
+Validade da aproximação:True
+Tempo: 0.10444808006286621
+
+Running: a280
+Expected: 2579
+TwiceAroundTheTreeTSP: 3629.7203051092397
+Aproximação obtida: 0.710523066025161
+Validade da aproximação:True
+Tempo: 0.08019566535949707
+
+Running: pr299
+Expected: 48191
+TwiceAroundTheTreeTSP: 64646.03471992065
+Aproximação obtida: 0.7454594888733362
+Validade da aproximação:True
+Tempo: 0.09335589408874512
+
+Running: lin318
+Expected: 42029
+TwiceAroundTheTreeTSP: 58145.441917056065
+Aproximação obtida: 0.7228253602398272
+Validade da aproximação:True
+Tempo: 0.13153696060180664
+
+Running: linhp318
+Expected: 41345
+TwiceAroundTheTreeTSP: 58145.441917056065
+Aproximação obtida: 0.7110617554335258
+Validade da aproximação:True
+Tempo: 0.1522693634033203
+
+Running: rd400
+Expected: 15281
+TwiceAroundTheTreeTSP: 20250.376744292647
+Aproximação obtida: 0.7546032448165088
+Validade da aproximação:True
+Tempo: 0.21047019958496094
+
+Running: fl417
+Expected: 11861
+TwiceAroundTheTreeTSP: 16297.174640391935
+Aproximação obtida: 0.7277948639393578
+Validade da aproximação:True
+Tempo: 0.20679569244384766
+
+Running: pr439
+Expected: 107217
+TwiceAroundTheTreeTSP: 144624.15787804432
+Aproximação obtida: 0.7413491741152384
+Validade da aproximação:True
+Tempo: 0.23737335205078125
+
+Running: pcb442
+Expected: 50778
+TwiceAroundTheTreeTSP: 69364.90250618651
+Aproximação obtida: 0.7320416834071267
+Validade da aproximação:True
+Tempo: 0.24680113792419434
+
+Running: d493
+Expected: 35002
+TwiceAroundTheTreeTSP: 45427.08884703529
+Aproximação obtida: 0.7705094226456103
+Validade da aproximação:True
+Tempo: 0.306140661239624
+
+Running: u574
+Expected: 36905
+TwiceAroundTheTreeTSP: 49083.15193822763
+Aproximação obtida: 0.7518873288016601
+Validade da aproximação:True
+Tempo: 0.43810081481933594
+
+Running: rat575
+Expected: 6773
+TwiceAroundTheTreeTSP: 9438.933433360664
+Aproximação obtida: 0.717559886169101
+Validade da aproximação:True
+Tempo: 0.5075078010559082
+
+Running: p654
+Expected: 34643
+TwiceAroundTheTreeTSP: 49731.89542216019
+Aproximação obtida: 0.6965952072794579
+Validade da aproximação:True
+Tempo: 0.5306413173675537
+
+Running: d657
+Expected: 48912
+TwiceAroundTheTreeTSP: 65730.19370040316
+Aproximação obtida: 0.7441329052359082
+Validade da aproximação:True
+Tempo: 0.5688731670379639
+
+Running: u724
+Expected: 41910
+TwiceAroundTheTreeTSP: 57779.66789292217
+Aproximação obtida: 0.7253416561283809
+Validade da aproximação:True
+Tempo: 0.7233729362487793
+
+Running: rat783
+Expected: 8806
+TwiceAroundTheTreeTSP: 12054.453156740949
+Aproximação obtida: 0.7305184138589988
+Validade da aproximação:True
+Tempo: 0.8475441932678223
+
+Running: pr1002
+Expected: 259045
+TwiceAroundTheTreeTSP: 342244.46239584225
+Aproximação obtida: 0.756900486238947
+Validade da aproximação:True
+Tempo: 1.434704303741455
+
+Running: u1060
+Expected: 224094
+TwiceAroundTheTreeTSP: 302914.8663669418
+Aproximação obtida: 0.7397920171027176
+Validade da aproximação:True
+Tempo: 1.6126911640167236
+
+Running: vm1084
+Expected: 239297
+TwiceAroundTheTreeTSP: 315268.3487491507
+Aproximação obtida: 0.7590264006819195
+Validade da aproximação:True
+Tempo: 1.758202314376831
+
+Running: pcb1173
+Expected: 56892
+TwiceAroundTheTreeTSP: 80694.8928627429
+Aproximação obtida: 0.7050260305416085
+Validade da aproximação:True
+Tempo: 2.22442889213562
+
+Running: d1291
+Expected: 50801
+TwiceAroundTheTreeTSP: 74658.29731002661
+Aproximação obtida: 0.680446806723215
+Validade da aproximação:True
+Tempo: 2.484727144241333
+
+Running: rl1304
+Expected: 252948
+TwiceAroundTheTreeTSP: 347782.57034149766
+Aproximação obtida: 0.7273164947617218
+Validade da aproximação:True
+Tempo: 2.5587668418884277
+
+Running: rl1323
+Expected: 270199
+TwiceAroundTheTreeTSP: 380421.587604229
+Aproximação obtida: 0.7102620061643323
+Validade da aproximação:True
+Tempo: 2.7853994369506836
+
+Running: nrw1379
+Expected: 56638
+TwiceAroundTheTreeTSP: 79156.2650653691
+Aproximação obtida: 0.7155213798077388
+Validade da aproximação:True
+Tempo: 3.0169453620910645
+
+Running: fl1400
+Expected: 20127
+TwiceAroundTheTreeTSP: 27915.52347719665
+Aproximação obtida: 0.7209966890444
+Validade da aproximação:True
+Tempo: 2.8587734699249268
+
+Running: u1432
+Expected: 152970
+TwiceAroundTheTreeTSP: 214430.78054791197
+Aproximação obtida: 0.7133770609290894
+Validade da aproximação:True
+Tempo: 3.031764030456543
+
+Running: fl1577
+Expected: 22249
+TwiceAroundTheTreeTSP: 31223.096666973648
+Aproximação obtida: 0.7125814661277325
+Validade da aproximação:True
+Tempo: 3.717819929122925
+
+Running: d1655
+Expected: 62128
+TwiceAroundTheTreeTSP: 85681.0784168341
+Aproximação obtida: 0.7251075867387012
+Validade da aproximação:True
+Tempo: 4.0812060832977295
+
+Running: vm1748
+Expected: 336556
+TwiceAroundTheTreeTSP: 444658.6319423448
+Aproximação obtida: 0.7568862399676488
+Validade da aproximação:True
+Tempo: 4.791898012161255
+
+Running: u1817
+Expected: 57201
+TwiceAroundTheTreeTSP: 83501.55577440909
+Aproximação obtida: 0.6850291526847279
+Validade da aproximação:True
+Tempo: 5.41467809677124
+
+Running: rl1889
+Expected: 316536
+TwiceAroundTheTreeTSP: 449811.48817322083
+Aproximação obtida: 0.7037081273435664
+Validade da aproximação:True
+Tempo: 5.8075079917907715
+
+Running: d2103
+Expected: 80450
+TwiceAroundTheTreeTSP: 124533.87160392563
+Aproximação obtida: 0.6460089850564319
+Validade da aproximação:True
+Tempo: 6.878421306610107
+
+Running: u2152
+Expected: 64253
+TwiceAroundTheTreeTSP: 95076.21583494876
+Aproximação obtida: 0.6758051888764955
+Validade da aproximação:True
+Tempo: 7.535085678100586
+
+Running: u2319
+Expected: 234256
+TwiceAroundTheTreeTSP: 320532.84102777723
+Aproximação obtida: 0.7308330692382922
+Validade da aproximação:True
+Tempo: 8.989606857299805
+
+Running: pr2392
+Expected: 378032
+TwiceAroundTheTreeTSP: 523132.9069393881
+Aproximação obtida: 0.7226308935748139
+Validade da aproximação:True
+Tempo: 9.43360447883606
+
+Running: pcb3038
+Expected: 137694
+TwiceAroundTheTreeTSP: 196573.89922196095
+Aproximação obtida: 0.7004693936732829
+Validade da aproximação:True
+Tempo: 15.216783285140991
+
+Running: fl3795
+Expected: 28772
+TwiceAroundTheTreeTSP: 39072.83254850032
+Aproximação obtida: 0.7363684208019957
+Validade da aproximação:True
+Tempo: 26.775075674057007
+
+Running: fnl4461
+Expected: 182566
+TwiceAroundTheTreeTSP: 254671.62750690823
+Aproximação obtida: 0.7168682345466525
+Validade da aproximação:True
+Tempo: 37.163819789886475
+
+Running: rl5915
+Expected: 565530
+TwiceAroundTheTreeTSP: 840348.3558001819
+Aproximação obtida: 0.6729709127133364
+Validade da aproximação:True
+Tempo: 66.67347311973572
+
+Running: rl5934
+Expected: 556045
+TwiceAroundTheTreeTSP: 827482.3360284586
+Aproximação obtida: 0.671972047969948
+Validade da aproximação:True
+Tempo: 67.62670540809631
+
+Running: rl11849
+Expected: 923368
+TwiceAroundTheTreeTSP: 1351628.812671623
+Aproximação obtida: 0.6831520542795143
+Validade da aproximação:True
+Tempo: 746.5941548347473
+
+Running: usa13509
+Expected: 19982889
+A execução excedeu o tempo limite de 1800 segundos.

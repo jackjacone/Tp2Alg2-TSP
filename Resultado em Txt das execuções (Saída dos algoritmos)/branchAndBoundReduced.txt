@@ -1,0 +1,18 @@
+Runing: eil12
+Expected: 169.16039024786406
+Branch and Bound: 169.16039024786406
+Aproximação obtida: 1.0
+Validade da aproximação:True
+Tempo: 0.03906679153442383
+
+Runing: eil16
+Expected: 213.20298623743088
+Branch and Bound: 213.20298623743088
+Aproximação obtida: 1.0
+Validade da aproximação:True
+Tempo: 0.7207121849060059
+
+Runing: eil25
+Expected: 233.7375749549
+raise TimeoutError(f"A execução excedeu o tempo limite de {seconds} segundos.")
+TimeoutError: A execução excedeu o tempo limite de 1800 segundos.

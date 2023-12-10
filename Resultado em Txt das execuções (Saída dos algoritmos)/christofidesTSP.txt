@@ -1,0 +1,494 @@
+Running: eil51
+Expected: 426
+ChristofidesTSP: 486.82490388532386
+Aproximação obtida: 0.8750579450642654
+Validade da aproximação:True
+Tempo: 0.015635251998901367
+
+Running: berlin52
+Expected: 7542
+ChristofidesTSP: 8594.034943788782
+Aproximação obtida: 0.8775854472701294
+Validade da aproximação:True
+Tempo: 0.01562666893005371
+
+Running: st70
+Expected: 675
+ChristofidesTSP: 759.1621130179485
+Aproximação obtida: 0.8891381543220418
+Validade da aproximação:True
+Tempo: 0.04687857627868652
+
+Running: eil76
+Expected: 538
+ChristofidesTSP: 623.0579978735639
+Aproximação obtida: 0.8634830173693966
+Validade da aproximação:True
+Tempo: 0.06251358985900879
+
+Running: pr76
+Expected: 108159
+ChristofidesTSP: 116683.53464597449
+Aproximação obtida: 0.9269431229364238
+Validade da aproximação:True
+Tempo: 0.031252145767211914
+
+Running: rat99
+Expected: 1211
+ChristofidesTSP: 1367.431978722476
+Aproximação obtida: 0.8856016378462769
+Validade da aproximação:True
+Tempo: 0.06250500679016113
+
+Running: kroA100
+Expected: 21282
+ChristofidesTSP: 23292.98465639025
+Aproximação obtida: 0.9136656514373073
+Validade da aproximação:True
+Tempo: 0.09375715255737305
+
+Running: kroB100
+Expected: 22141
+ChristofidesTSP: 24009.194442252865
+Aproximação obtida: 0.9221883746767822
+Validade da aproximação:True
+Tempo: 0.06250500679016113
+
+Running: kroC100
+Expected: 20749
+ChristofidesTSP: 23469.130952131818
+Aproximação obtida: 0.8840974999168115
+Validade da aproximação:True
+Tempo: 0.07813119888305664
+
+Running: kroD100
+Expected: 21294
+ChristofidesTSP: 23587.75136035071
+Aproximação obtida: 0.9027566754749526
+Validade da aproximação:True
+Tempo: 0.1093897819519043
+
+Running: kroE100
+Expected: 22068
+ChristofidesTSP: 23782.60705318694
+Aproximação obtida: 0.927905000097238
+Validade da aproximação:True
+Tempo: 0.10938310623168945
+
+Running: rd100
+Expected: 7910
+ChristofidesTSP: 8905.492431142618
+Aproximação obtida: 0.8882159028442528
+Validade da aproximação:True
+Tempo: 0.14063596725463867
+
+Running: eil101
+Expected: 629
+ChristofidesTSP: 722.9974255765957
+Aproximação obtida: 0.8699892665570254
+Validade da aproximação:True
+Tempo: 0.109375
+
+Running: lin105
+Expected: 14379
+ChristofidesTSP: 16323.675799681514
+Aproximação obtida: 0.8808677761341317
+Validade da aproximação:True
+Tempo: 0.07813143730163574
+
+Running: pr107
+Expected: 44303
+ChristofidesTSP: 47894.18468460625
+Aproximação obtida: 0.9250183564402444
+Validade da aproximação:True
+Tempo: 0.046878814697265625
+
+Running: pr124
+Expected: 59030
+ChristofidesTSP: 64437.69864117384
+Aproximação obtida: 0.9160786503055143
+Validade da aproximação:True
+Tempo: 0.046878814697265625
+
+Running: bier127
+Expected: 118282
+ChristofidesTSP: 132456.24599032826
+Aproximação obtida: 0.8929892215776428
+Validade da aproximação:True
+Tempo: 0.20313191413879395
+
+Running: ch130
+Expected: 6110
+ChristofidesTSP: 6752.275865213126
+Aproximação obtida: 0.9048800910931305
+Validade da aproximação:True
+Tempo: 0.1250009536743164
+
+Running: pr136
+Expected: 96772
+ChristofidesTSP: 103771.90817636026
+Aproximação obtida: 0.9325452494863646
+Validade da aproximação:True
+Tempo: 0.031243562698364258
+
+Running: pr144
+Expected: 58537
+ChristofidesTSP: 70405.28109712257
+Aproximação obtida: 0.8314291071325952
+Validade da aproximação:True
+Tempo: 0.07813048362731934
+
+Running: ch150
+Expected: 6528
+ChristofidesTSP: 7112.036891270508
+Aproximação obtida: 0.9178805031245874
+Validade da aproximação:True
+Tempo: 0.14063572883605957
+
+Running: kroA150
+Expected: 26524
+ChristofidesTSP: 29688.31634111598
+Aproximação obtida: 0.8934154330357342
+Validade da aproximação:True
+Tempo: 0.3125154972076416
+
+Running: kroB150
+Expected: 26130
+ChristofidesTSP: 30054.38749397736
+Aproximação obtida: 0.8694238072639553
+Validade da aproximação:True
+Tempo: 0.32815003395080566
+
+Running: pr152
+Expected: 73682
+ChristofidesTSP: 79314.35040722211
+Aproximação obtida: 0.9289869944303389
+Validade da aproximação:True
+Tempo: 0.06250452995300293
+
+Running: u159
+Expected: 42080
+ChristofidesTSP: 47581.71632624036
+Aproximação obtida: 0.8843733107793281
+Validade da aproximação:True
+Tempo: 0.17189812660217285
+
+Running: rat195
+Expected: 2323
+ChristofidesTSP: 2648.0952220519634
+Aproximação obtida: 0.8772343156904862
+Validade da aproximação:True
+Tempo: 0.3437674045562744
+
+Running: d198
+Expected: 15780
+ChristofidesTSP: 17316.366440499645
+Aproximação obtida: 0.911276626896369
+Validade da aproximação:True
+Tempo: 0.4218411445617676
+
+Running: kroA200
+Expected: 29368
+ChristofidesTSP: 33602.85852107668
+Aproximação obtida: 0.8739732657440301
+Validade da aproximação:True
+Tempo: 0.635594367980957
+
+Running: kroB200
+Expected: 29437
+ChristofidesTSP: 33118.12196028457
+Aproximação obtida: 0.8888487105428566
+Validade da aproximação:True
+Tempo: 0.5026891231536865
+
+Running: ts225
+Expected: 126643
+ChristofidesTSP: 133282.1703627935
+Aproximação obtida: 0.9501871079625902
+Validade da aproximação:True
+Tempo: 0.0829312801361084
+
+Running: tsp225
+Expected: 3919
+ChristofidesTSP: 4376.002889600349
+Aproximação obtida: 0.8955661362366957
+Validade da aproximação:True
+Tempo: 0.4498920440673828
+
+Running: pr226
+Expected: 80369
+ChristofidesTSP: 92425.75353982349
+Aproximação obtida: 0.8695520125283198
+Validade da aproximação:True
+Tempo: 0.3399829864501953
+
+Running: gil262
+Expected: 2378
+ChristofidesTSP: 2695.15432713288
+Aproximação obtida: 0.8823242424598852
+Validade da aproximação:True
+Tempo: 1.0001168251037598
+
+Running: pr264
+Expected: 49135
+ChristofidesTSP: 54663.60243427483
+Aproximação obtida: 0.8988613595139072
+Validade da aproximação:True
+Tempo: 0.328153133392334
+
+Running: a280
+Expected: 2579
+ChristofidesTSP: 2975.114776582676
+Aproximação obtida: 0.8668573126319289
+Validade da aproximação:True
+Tempo: 0.7344815731048584
+
+Running: pr299
+Expected: 48191
+ChristofidesTSP: 52968.219790603056
+Aproximação obtida: 0.9098096970317554
+Validade da aproximação:True
+Tempo: 1.04685378074646
+
+Running: lin318
+Expected: 42029
+ChristofidesTSP: 47259.75653586447
+Aproximação obtida: 0.8893190122150766
+Validade da aproximação:True
+Tempo: 1.3672981262207031
+
+Running: linhp318
+Expected: 41345
+ChristofidesTSP: 47259.75653586447
+Aproximação obtida: 0.874845810274628
+Validade da aproximação:True
+Tempo: 1.3497726917266846
+
+Running: rd400
+Expected: 15281
+ChristofidesTSP: 17551.74562434106
+Aproximação obtida: 0.8706256532574201
+Validade da aproximação:True
+Tempo: 4.030200719833374
+
+Running: fl417
+Expected: 11861
+ChristofidesTSP: 13424.734306822817
+Aproximação obtida: 0.8835184167460145
+Validade da aproximação:True
+Tempo: 1.5801506042480469
+
+Running: pr439
+Expected: 107217
+ChristofidesTSP: 119532.0359030051
+Aproximação obtida: 0.8969729260447116
+Validade da aproximação:True
+Tempo: 1.628957748413086
+
+Running: pcb442
+Expected: 50778
+ChristofidesTSP: 54876.77363889552
+Aproximação obtida: 0.9253095004114746
+Validade da aproximação:True
+Tempo: 3.0900375843048096
+
+Running: d493
+Expected: 35002
+ChristofidesTSP: 38393.63634401193
+Aproximação obtida: 0.911661497399662
+Validade da aproximação:True
+Tempo: 5.308570623397827
+
+Running: u574
+Expected: 36905
+ChristofidesTSP: 41337.60957541716
+Aproximação obtida: 0.8927705394447103
+Validade da aproximação:True
+Tempo: 8.234944820404053
+
+Running: rat575
+Expected: 6773
+ChristofidesTSP: 7802.7491950184985
+Aproximação obtida: 0.8680273876192355
+Validade da aproximação:True
+Tempo: 9.578859329223633
+
+Running: p654
+Expected: 34643
+ChristofidesTSP: 39244.70795213078
+Aproximação obtida: 0.882743223424066
+Validade da aproximação:True
+Tempo: 1.5157411098480225
+
+Running: d657
+Expected: 48912
+ChristofidesTSP: 54738.296289833816
+Aproximação obtida: 0.8935608763015904
+Validade da aproximação:True
+Tempo: 12.610341548919678
+
+Running: u724
+Expected: 41910
+ChristofidesTSP: 47954.682397622775
+Aproximação obtida: 0.873950110908827
+Validade da aproximação:True
+Tempo: 16.282497882843018
+
+Running: rat783
+Expected: 8806
+ChristofidesTSP: 10102.874531719244
+Aproximação obtida: 0.8716331151448488
+Validade da aproximação:True
+Tempo: 24.142483949661255
+
+Running: pr1002
+Expected: 259045
+ChristofidesTSP: 286233.0980252908
+Aproximação obtida: 0.9050141363355242
+Validade da aproximação:True
+Tempo: 36.487170934677124
+
+Running: u1060
+Expected: 224094
+ChristofidesTSP: 249108.58459439888
+Aproximação obtida: 0.8995836107570203
+Validade da aproximação:True
+Tempo: 49.38196611404419
+
+Running: vm1084
+Expected: 239297
+ChristofidesTSP: 260833.0616257126
+Aproximação obtida: 0.9174335435412855
+Validade da aproximação:True
+Tempo: 25.017541885375977
+
+Running: pcb1173
+Expected: 56892
+ChristofidesTSP: 63392.440765721745
+Aproximação obtida: 0.8974571622861895
+Validade da aproximação:True
+Tempo: 45.300455808639526
+
+Running: d1291
+Expected: 50801
+ChristofidesTSP: 57930.365110023486
+Aproximação obtida: 0.8769321564522659
+Validade da aproximação:True
+Tempo: 12.282191038131714
+
+Running: rl1304
+Expected: 252948
+ChristofidesTSP: 278319.19310530246
+Aproximação obtida: 0.9088413816444803
+Validade da aproximação:True
+Tempo: 12.485331535339355
+
+Running: rl1323
+Expected: 270199
+ChristofidesTSP: 298261.7196963095
+Aproximação obtida: 0.9059124324607161
+Validade da aproximação:True
+Tempo: 12.67284607887268
+
+Running: nrw1379
+Expected: 56638
+ChristofidesTSP: 63845.070784206226
+Aproximação obtida: 0.8871162535230662
+Validade da aproximação:True
+Tempo: 161.95650672912598
+
+Running: fl1400
+Expected: 20127
+ChristofidesTSP: 22834.353425479138
+Aproximação obtida: 0.8814350739417826
+Validade da aproximação:True
+Tempo: 149.99193215370178
+
+Running: u1432
+Expected: 152970
+ChristofidesTSP: 171640.9249010753
+Aproximação obtida: 0.8912210190440524
+Validade da aproximação:True
+Tempo: 49.312461376190186
+
+Running: fl1577
+Expected: 22249
+ChristofidesTSP: 24515.854228438227
+Aproximação obtida: 0.9075351726553875
+Validade da aproximação:True
+Tempo: 30.79228973388672
+
+Running: d1655
+Expected: 62128
+ChristofidesTSP: 70542.33671413544
+Aproximação obtida: 0.8807193366979952
+Validade da aproximação:True
+Tempo: 61.16757082939148
+
+Running: vm1748
+Expected: 336556
+ChristofidesTSP: 376240.89998764714
+Aproximação obtida: 0.8945226316730848
+Validade da aproximação:True
+Tempo: 91.51706147193909
+
+Running: u1817
+Expected: 57201
+ChristofidesTSP: 66796.25683960102
+Aproximação obtida: 0.8563503810903316
+Validade da aproximação:True
+Tempo: 70.47579526901245
+
+Running: rl1889
+Expected: 316536
+ChristofidesTSP: 344691.95294951776
+Aproximação obtida: 0.9183156069975287
+Validade da aproximação:True
+Tempo: 41.31191039085388
+
+Running: d2103
+Expected: 80450
+ChristofidesTSP: 84509.81497317906
+Aproximação obtida: 0.9519604323537151
+Validade da aproximação:True
+Tempo: 9.930081605911255
+
+Running: u2152
+Expected: 64253
+ChristofidesTSP: 73917.82910222613
+Aproximação obtida: 0.8692490131324073
+Validade da aproximação:True
+Tempo: 109.17256927490234
+
+Running: u2319
+Expected: 234256
+ChristofidesTSP: 272766.5150547411
+Aproximação obtida: 0.8588150930219111
+Validade da aproximação:True
+Tempo: 414.10592341423035
+
+Running: pr2392
+Expected: 378032
+ChristofidesTSP: 425979.59046984685
+Aproximação obtida: 0.8874415780883737
+Validade da aproximação:True
+Tempo: 373.3963520526886
+
+Running: pcb3038
+Expected: 137694
+ChristofidesTSP: 154218.1858797758
+Aproximação obtida: 0.892851898201827
+Validade da aproximação:True
+Tempo: 780.658837556839
+
+Running: fl3795
+Expected: 28772
+ChristofidesTSP: 31490.613233488275
+Aproximação obtida: 0.9136690920138322
+Validade da aproximação:True
+Tempo: 750.6383626461029
+
+Running: fnl4461
+Expected: 182566
+raise TimeoutError(f"A execução excedeu o tempo limite de {seconds} segundos.")
+TimeoutError: A execução excedeu o tempo limite de 1800 segundos.
